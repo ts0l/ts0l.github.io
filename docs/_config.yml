@@ -31,7 +31,7 @@ url: https://ts0l.github.io # the base hostname & protocol for your site, e.g. h
 github_username: ts0l
 
 # Build settings
-theme: minima
+theme: jekyll-bear-theme
 plugins:
   - jekyll-feed
 
